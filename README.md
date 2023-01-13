@@ -11,6 +11,7 @@
 
 ### Estatísticas GitHub
 <!--- Estatisticas  --------------------->
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-j-borchardt&theme=tokyonight&card_width=50)](https://github.com/ivan-j-borchardt/github-readme-stats)
+-->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivan-j-borchardt&theme=tokyonight)
